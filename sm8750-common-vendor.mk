@@ -665,6 +665,7 @@ PRODUCT_PACKAGES += \
     libostatslog \
     libqcc \
     libqcc_file_agent_sys \
+    libqccdme \
     libqccfileservice \
     libwfdavenhancements \
     libwfdclient \
