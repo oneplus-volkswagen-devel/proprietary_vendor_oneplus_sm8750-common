@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/sm8750-common/proprietary/odm/etc/audio_algos_ver/OPSR_Version.txt:$(TARGET_COPY_OUT_ODM)/etc/audio_algos_ver/OPSR_Version.txt \
     vendor/oneplus/sm8750-common/proprietary/odm/etc/audio_algos_ver/OPVE_Version.txt:$(TARGET_COPY_OUT_ODM)/etc/audio_algos_ver/OPVE_Version.txt \
     vendor/oneplus/sm8750-common/proprietary/odm/etc/charge.cfg:$(TARGET_COPY_OUT_ODM)/etc/charge.cfg \
-    vendor/oneplus/sm8750-common/proprietary/odm/etc/horae/horae_target.conf:$(TARGET_COPY_OUT_ODM)/etc/horae/horae_target.conf \
     vendor/oneplus/sm8750-common/proprietary/odm/etc/init/hw/init.oplus.display.rc:$(TARGET_COPY_OUT_ODM)/etc/init/hw/init.oplus.display.rc \
     vendor/oneplus/sm8750-common/proprietary/odm/etc/init/hw/init.oplus.wifi.rc:$(TARGET_COPY_OUT_ODM)/etc/init/hw/init.oplus.wifi.rc \
     vendor/oneplus/sm8750-common/proprietary/odm/etc/init/init.audio.rc:$(TARGET_COPY_OUT_ODM)/etc/init/init.audio.rc \
